@@ -7,6 +7,9 @@ In the Magical Arena, players engage in battles based on their health, strength,
 They take turns attacking each other, rolling dice to determine the outcome of their attacks and defenses.
  The game continues until one player's health reaches zero.
 
+
+github clone link : https://github.com/Pavankarimajji/Pavan_Task.git
+
 How to run the code:
 
 
